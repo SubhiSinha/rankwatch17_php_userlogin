@@ -8,8 +8,8 @@
     <meta name="author" content="">
 	 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
    
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet"> 
+    <link href="style.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet"> 
 	
   </head>
 
