@@ -24,7 +24,7 @@ $jsonState = json_encode($state);
 
 ?>
 <!--script for dynamic dependent dropdown-->
- <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>
+ <script src="jQuery-2.1.4.min.js"></script>
  <!-- Content Wrapper. Contains page content -->
     <div class="content-wrapper">
  <!-- Content Header (Page header) -->
